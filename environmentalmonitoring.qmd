@@ -1,0 +1,12 @@
+---
+title: "Environmental Monitoring"
+---
+Below find EPA's AirNow map used to monitor current air quality.
+
+<iframe
+  src="https://gispub.epa.gov/airnow/?tab=0&contours=ozonepm&xmin=-8089454.545713002&xmax=-7705129.167494988&ymin=5026610.337576328&ymax=5202109.754519159&monitors=none"
+  width="100%"
+  height="600"
+  frameborder="0"
+  allowfullscreen>
+</iframe>

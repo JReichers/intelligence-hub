@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home Page",
+    "section": "",
+    "text": "Welcome to the Rhode Island Department of Health’s Public Health Intelligence Hub. Here you will find information regarding current events that may pose a risk to the State’s health."
+  },
+  {
+    "objectID": "environmentalmonitoring.html",
+    "href": "environmentalmonitoring.html",
+    "title": "Environmental Monitoring",
+    "section": "",
+    "text": "Below find EPA’s AirNow map used to monitor current air quality."
+  }
+]

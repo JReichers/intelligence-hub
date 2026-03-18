@@ -1,0 +1,19 @@
+project: 
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Intelligence Hub"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: environmentalmonitoring.qmd
+        text: Environmental Monitoring
+      - href: infectiousdisease.qmd
+        text: Infectious Disease Monitoring
+format:
+  html:
+    theme: cosmo
+    toc: true
+    
